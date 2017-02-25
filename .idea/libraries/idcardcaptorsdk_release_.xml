@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="idcardcaptorsdk-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/idcardcaptorsdk-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/idcardcaptorsdk-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

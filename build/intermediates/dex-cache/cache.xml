@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\kaola-release\jars\libs\afinal_0.5.1_bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f99fbd90e60111994f8823231b2ee08c8101da9a">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\afinal_0.5.1_bin_714c1e4ed21dab9596f294f3b5ba9b59d5329c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_9ac302984ae597422972805919e1b87e8be2436d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\libs\jcore-android_v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03c320fc818ad1c01721748a557b1b6445b9de44">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\jcore-android_v1.0.0_483260f097b70420a3a2e0100a453b7bf7a72280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\libapshare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18847ccd171b966c0e05319a709420e87f8fd5c3">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\libapshare_b4fcf3f2b2ce521e9d794c9bedd1effc58f8db3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-appcompat-v7\0.9\69676bf4015be3e182e00dbebea5ee0c9325e78a\anko-appcompat-v7-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69676bf4015be3e182e00dbebea5ee0c9325e78a">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-appcompat-v7-0.9_072714a74ac7c22bfa9cd55bb89630720324e08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_e6ffee9c62874197060c7956775111abdccb4eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_998af67523f96ab9726778c77acfc60339b0d445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\org.lzh.nonview.updateplugin\UpdatePlugin\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09e002037c45946329b52f4291a701b9b583ad33">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.lzh.nonview.updateplugin-UpdatePlugin-1.1.0_1bf5d3be168cd75ada0f820d15b239d7825597e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5d7ba9e868a9251dca3277fcbf494dc59632eff">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.timber-timber-4.3.1_3a0506ea2ac058f0fea7773506a7d9ccb2a31375\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-1.0_312719db61004e01c00ed151ca12bd3fdb2265ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_5dce00900d15e34d1105f74ef384667929fddb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_db3d419af9d312c401424647cae660f361e71283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_49b321ab0ca63b81e1a7cd4c802ad97da9255731\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-support-v4\0.9\4616ffe811fc931672c50fb05834a62aa24cdab2\anko-support-v4-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4616ffe811fc931672c50fb05834a62aa24cdab2">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-support-v4-0.9_f764a453cada591ae7600bfd96e3de8b6bb11354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_48345686827a7eab4232bb2a708238a6dc807e57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\core\2.2.0\5c0463c223d69f9af0a6dbd145ea3967a8cccb21\core-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c0463c223d69f9af0a6dbd145ea3967a8cccb21">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-2.2.0_e70790a2b32b9505de8b46fd1695ff040376d7e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77ce2479966f7f7fb8c18213136c6282d7390407">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.tencent.bugly-crashreport-2.4.0_116307f11f4e3b37d3cf672da81fe77de02ef30f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.6\d19acb6ed49b9c48228c0e5dff8071fce23be4b8\kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.0.6_8b0f2b51a3a851c5e4de8ed8f4b765d8d690c3c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_52c90650d7bb867aa207ec002586e8ac4b0b4ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.8\55a1aa1cdcfd06b9950ca856e2bc2790e105146a\dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.8_10053efae1eb926e9b0bda40301940d0ec7c42a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9210f5ba642f4475daed55eebab0088a90b6844">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.jiguang.sdk-jpush-3.0.0_2effd7e53f13ec87c4e74810a388374514202978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-components\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello.rxlifecycle2-rxlifecycle-components-2.0.1_0f322bc06d59b10bdd81a4d00eb520a5a5cea296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\BaiduLBS_Android_7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d08d15af018a0d6f6fd877c3e64d55a120bef77">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_7.0_c3de3cbaf56f4b4c5c22edd4b3be7152f447964c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\camera-release\jars\libs\camera_adapter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52238ba8f291e3876a6e9f6daf773102b27eed2d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\camera_adapter_835523a074fa59a4c3205d74f0843bcaeca2e0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07b4097115bb7e68aa0123fd9fb6873c433f23a3">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-1.0.0_65189a373bcdec970907f7b42afce773e71d54df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_a53ed52cd1ffbd76d0e69172d1c2c3f85c6131f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.56.android\4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6\fastjson-1.1.56.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.1.56.android_386c2456554c2ec5c2fcf94721f36062490b99c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.meiqia\meiqiasdk\3.3.0\jars\libs\meiqia-v3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc517776a0e6e13ffae2e654e213305a9e1fa24d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\meiqia-v3.3.0_82e60393b636aebcbc4800da79114a3efdf11410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_397e682f81a90ee78c74b4633dae79a7450f65cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\android\2.2.0\a763c9c20b67e0be7ad5d15e6206b85725ff6d54\android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a763c9c20b67e0be7ad5d15e6206b85725ff6d54">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-2.2.0_60eda077b5850f3dc7ddd90a6917b423186908f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\kaola-release\jars\libs\umeng-analytics-v6.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2e549abd0734e164afb87facacad15de0a70d69">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\umeng-analytics-v6.0.4_a269643c5af73b06defb6855763c1d3054108b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\jp.wasabeef\blurry\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49050354bece84091394b0215286f3ed7293e33c">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-blurry-2.1.0_46ed2c8ad6cdada00f0cd2e5e38abd588d87b0e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_0e9b7ad9fbe5cb42646fc9ae463820cacafb0082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-android-1.0_1af00078a173fd23c86d23c3192ae97bc0afc558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82da2e1fff613de7a111e04c38f9c7e654ef3116">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-1.0.0_70d6e586f2359de345dd3256bcb441048e17b955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_b629f06a974d8a52776eaf08b3d7e7de95a0263a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ff265b4141de70fb2637f818787b53a245ce967">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-1.0.0_994e8dcefcbd8cede678c04f0334c1379a52f8bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.meiqia\meiqiasdk\3.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="690449c2e606aa2908e3504e4c71a97d67de5508">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.meiqia-meiqiasdk-3.3.0_f2abc78ec9eda6fc0073434930058c2260c9c74d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="785e7795aa8c3df729ae5d6bb6fc7e4428108332">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-pickerview-2.1.0_aa9b9c4485b91739ed5291d50e6b01d87bd09804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.github.wangjiegulu\ShadowViewHelper\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82eb31ad68fa20921374c7178af932a6366cc232">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.wangjiegulu-ShadowViewHelper-1.0.1_c44d7969c4e96331171babfbd11a7296d60dd9b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\kaola-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c573fb353f27c3d6466898b73f6ce7c04a8e6487">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-kaola-release_c522aaa92ff8a4318c86512bc6f996f21efdee58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_2776430e44027847e842234e21fe78c42cb9a074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\fm-sdk-3.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4133cc9a42f13764aa2c02a8a19cd6fe651827b2">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\fm-sdk-3.0.4_759873f26c370f71ce9a4fcb78245fd88eeea2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.trello.rxlifecycle2\rxlifecycle\2.0.1\6a8613d3be37408630effe790c4945543633288\rxlifecycle-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06a8613d3be37408630effe790c4945543633288">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-2.0.1_e40ac6bb629777b4d16adb614cbacf5b5045e759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9d7bd9916c689c05a7801de31240be06e2e6a5f">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_f6e3082d4564548598158ed7bfed18eaa8a34709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\weiboSDKCore_3.1.4_085ba7874977455d8e802f36c4ab7bcf0b408211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\me.shaohui.advancedluban\library\1.3.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="203f86b303ba8cf1473a5495f94121466af023b0">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.shaohui.advancedluban-library-1.3.2_66411a3610e72f4f399212c2585d0dc186cc32c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_5ea215fafe26757b3eaa9e791da078c680959e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_1af5ac5d71167c9ae322ab348c00ad920f7ddce5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3747979f8d095e39a7ef8ee9213cd4f9b357e0c">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yanzhenjie-permission-1.0.3_1e811979defeed84a938f5124bb02be5106019cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-components-1.0_ac5667b9d3bb31da096abb432d57ed3013e66a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.9\e741cd0d94e63a27bc7b8cbd8d04571c058bab32\anko-sdk15-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e741cd0d94e63a27bc7b8cbd8d04571c058bab32">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-sdk15-0.9_8a672373fa50179add7572df757e2b2c5eeda4bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8356a13c0142a96377823d2975afe2918756630d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_ff730bf505fafdf71310a86d0ab426e38ce8d389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.9\26c6156bea5eb494474c90528240daadf4b067c8\anko-common-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6156bea5eb494474c90528240daadf4b067c8">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-common-0.9_f4ba631b0f9245a060de093f693822bb82b9fa02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbd300a294fd5ad1ecb0a25f956d6a318b6ce68e">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-1.0.0_7b093c3faf3dcb1ca6d0db8cdd4d15e66642a5ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee4ebe9170b1ab57cd6f63635aa945fcdc26d788">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d40f868f8b9002bbb0eaa90965b55b2bb71e8807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.alibaba\arouter-api\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0425088c9ecb60e35284c086385dcf81658cbd44">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.alibaba-arouter-api-1.0.4_037d7f1c1068a2b03a6e2dad5093175df151ffc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-kotlin\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40ab0809e81856fadfc750543334f79e48f83b69">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello.rxlifecycle2-rxlifecycle-kotlin-2.0.1_181a228599c4e72697b117b0008e74c643893fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_682af52ccf0260bbb51160abe83007b9920482bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_6e133db9f1d40949015fcc102baa455d70aa0b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\idcardcaptorsdk-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1de8218ebed5b9a2829f1ba7f4e7a9ebe52fe4ce">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-idcardcaptorsdk-release_aa33353f51e82c75460f14f7fe3f025bee3ee75b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="213a93e339a6aba85d081464e5c350b9c01b2ce2">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-okhttp3-1.0.0_2ba19c3846d3eea4560ad5c5e0065b3f4d812de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c352647cf4de6a584197465649ea8a76875bbfa">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-1.0.0_b74775da2574424f2bab41af576173a393c52580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\kaola-release\jars\libs\utdid4all-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df06f01e5078a79abb1c0dbf43a3a8a608e8dc5e">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\utdid4all-1.0.4_bfc63dac053c45da76bfb5ddfb5a5307b6db6ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_2e6a11ebc92cde840fe7ebc2d931ab2a93062c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_4bfb849be98b35fe38bc29b30e70c35766b7aa44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\libs\jpush-android_v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31a82a5c456ce4c8cf778a42a3a76f5319c7edda">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\jpush-android_v3.0.0_843587be4a0365d239ee5e79c2124f55b30b75bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\livenessdetectionviewsdk-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94e842d2c197932f2d335e0f5a7a59a994783a54">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-livenessdetectionviewsdk-release_6b0d2832e1f7700ad2b8dc10196cdc453b698776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f25d486c6b039feba6449ac28f2eb3d9e1d99bc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_9e1792a4ccd1edaf4584373750da2f69b7731b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.4\cbcf91e47e43607fb628b11b3571f212f11a6f84\rxjava-2.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbcf91e47e43607fb628b11b3571f212f11a6f84">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.4_bb40e88d0c655c7611b11846c61d58dfbf9e4f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton.retrofit\retrofit2-rxjava2-adapter\1.0.0\e117362a2103f8ec01091ebd2f40aca4e1ada599\retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit2-rxjava2-adapter-1.0.0_3bd52da105ec11ea36b0c47583ed6adf33a79d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64db9447f62db2710ed781215adaf919ec6a5ef8">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_4fc8fb3f1f0e4102de5f26a78e93132d2702a206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9a0fd21db5442f0ceb80a6b6a3fa1d4594b66c1">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.jiguang.sdk-jcore-1.0.0_88eeb7b83e4a8688f216d7777fda0dc76088dc85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.taobao.android\weex_inspector\0.10.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.taobao.android-weex_inspector-0.10.0.5_bb5f086d1fbb3b9e67a013aae399476731d25bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_d511ea16e2d9daf4c09712ad442dc9f6fa5387af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ac76e1e2ed380273ba6f1361271bc47807e9f45">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13c6d67400b5954dc8a6c3a8bb4b62803fb7a166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b06e426a38852968181316c98ed0b804a4ab70d8">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_9ddaaf259969809a606dc0f92de4d86a3ac15994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.6\3562c66f648480d3bd4f76cff722488ced13445b\kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-runtime-1.0.6_c183afc3f61e58d549323ebc49783fdd820f0f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-android\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello.rxlifecycle2-rxlifecycle-android-2.0.1_2a7654b378441f9e0701ca14566eff614c98ce19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_15bfc9ce2a75c7ffcd68fb94c9fa807fc5190646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.taobao.android\weex_sdk\0.9.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c9669d457bd5e807ed6c6b0970c2b18f8378f40">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.taobao.android-weex_sdk-0.9.5_cdb338dfee5d75718edee0b92db0c36214953a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\arouter-annotation\1.0.0\b16151dbac221b60cbae8eb2e6a6af51c8395645\arouter-annotation-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b16151dbac221b60cbae8eb2e6a6af51c8395645">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\arouter-annotation-1.0.0_6d823409c745d5d98623dee8a0a6fc5e52e0e9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_e90f8ce0f514f83b65137a80794d3d8639937c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_9a71bba0d39116b8ef20fb5f74bddad88961690f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\libs\TalkingData_Analytics_Android_SDK_V2.2.46.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614c0dbd875839daaa7c3fcf2a9cd3b00733c903">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\TalkingData_Analytics_Android_SDK_V2.2.46_ca70e2e51cb3123d1b973e574527c2a8156f5a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_5232fd53bc41adfaf7d76247791ec16ede1f9a05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_7be9763fd9650dfac7326f49d5b9246a0db061ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\livenessdetectorsdk-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb2e60f4a7ef4e10c57ffd64fa22f98bab432298">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-livenessdetectorsdk-release_bfd76e2e21a51305c1d5baa197175b4df143e1dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-collections4\4.1\a4cf4688fe1c7e3a63aa636cc96d013af537768e\commons-collections4-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4cf4688fe1c7e3a63aa636cc96d013af537768e">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections4-4.1_19e2392ef12167763dd876e0800634dc2e8c7b72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\camera-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2646ea7abe127ea11b3ae378c469eeeac63bb07">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-camera-release_8abed72ba05711395c8de159440a84e2388653ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.1.0\908e18674f895e3e1fa8f4a954b8c637a23d2801\core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.1.0_98e1f68c6884593dac48e9478fa3c135e0ebff53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.1\4e4cfa4adc74521d5966799fa5ab70b733552f68\rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.1_aa891a92fd7005674dbfb16a988b401dae763c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_e261d97557e7c16910a0855d4c662d21d8da160c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_34984ae6e9eca8f74064d0c9b74d9cc100f9bd15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\8.0.0\ce021971974ee6a26572e43eaba7edf184c3c63d\libphonenumber-8.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce021971974ee6a26572e43eaba7edf184c3c63d">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\libphonenumber-8.0.0_1c3fcf2d30b5a20338d91dd8959cab6508460e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\creditjni-release\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e7e32ddbefa2daffccb539ac11288a9048f8b7">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-creditjni-release_b40ad5bd519696d182f8bec761837653d00d8343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex.rxjava2-rxandroid-2.0.1_4bb0ce35035251e38718f46399eab382db4d5257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\exploded-aar\com.haozhang.libary\android-slanted-textview\1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20c8a0e3720627e4f7968c3ae477120be4171680">
+        <dex dex="D:\git\companynew\3.0\cardvalue-anroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.haozhang.libary-android-slanted-textview-1.2_81af3c634032e45907029a2877d245c68b013870\classes.dex" />
+    </item>
+
+</items>

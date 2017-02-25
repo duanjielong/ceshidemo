@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="UpdatePlugin-1.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.lzh.nonview.updateplugin/UpdatePlugin/1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.lzh.nonview.updateplugin/UpdatePlugin/1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lzh.nonview.updateplugin/UpdatePlugin/1.1.0/7e297b61c63c4d8e8998e4159473fad4d90cde51/UpdatePlugin-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

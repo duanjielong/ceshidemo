@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="arouter-api-1.0.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alibaba/arouter-api/1.0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alibaba/arouter-api/1.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.alibaba/arouter-api/1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-api/1.0.4/eeba5446f9a1ca91e1fad01badaf23c65fc534d/arouter-api-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
