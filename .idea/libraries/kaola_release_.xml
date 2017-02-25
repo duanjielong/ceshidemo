@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="kaola-release-">
     <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/libs/utdid4all-1.0.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/libs/afinal_0.5.1_bin.jar!/" />
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/libs/utdid4all-1.0.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/libs/umeng-analytics-v6.0.4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/kaola-release/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

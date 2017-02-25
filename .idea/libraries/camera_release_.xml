@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="camera-release-">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/camera-release/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/camera-release/jars/libs/camera_adapter.jar!/" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/camera-release/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/camera-release/jars/libs/camera_adapter.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/camera-release/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

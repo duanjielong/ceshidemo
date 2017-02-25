@@ -14,7 +14,6 @@ import javax.inject.Inject;
  */
 public class AboutActivity extends BaseActivity {
 
-
     @Inject
     AboutPresenter mAboutPresenter;
 
