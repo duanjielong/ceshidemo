@@ -350,7 +350,7 @@ public class MainFragment extends RxFragment implements MainContract.View {
             TasksRepository repository = ((CVApplication) getActivity().getApplication()).getTasksRepositoryComponent()
                 .getTasksRepository();
             LoginResponse loginResponse = repository.getLogin();
-            if(!TextUtils.isEmpty(loginResponse.accessToken)){
+            if(!TextUtils.isEmpty(loginResponse.accessToken)||getActivity().getIntent().getStringExtra("apply")!=null){
                 String defaultColor = tabItemData.get(0).getColor();
                 int defaultColorInt = Color.BLACK;
                 if (!TextUtils.isEmpty(defaultColor)) {
