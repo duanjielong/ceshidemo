@@ -67,7 +67,7 @@ public class MainFragment extends RxFragment implements MainContract.View {
     /**
      * 应用退出
      */
-    public static final String BUS_APP_EXIT = "MainFragment_BUS_APP_EXIT";
+   // public static final String BUS_APP_EXIT = "MainFragment_BUS_APP_EXIT";
     /**
      * 获取用户信息数据结束
      */
