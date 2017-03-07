@@ -27,6 +27,7 @@ import com.cardvlaue.sys.data.EventConst;
 import com.cardvlaue.sys.data.SearchSelectEvent;
 import com.cardvlaue.sys.data.UserInfoNewResponse;
 import com.cardvlaue.sys.dialog.ContentLoadingDialog;
+import com.cardvlaue.sys.main.MainActivity;
 import com.cardvlaue.sys.searchselect.SearchSelectActivity;
 import com.cardvlaue.sys.util.CheckUtil;
 import com.cardvlaue.sys.util.RxBus2;
@@ -185,6 +186,11 @@ public class ShopAddFragment extends RxFragment implements ShopAddContract.View 
      */
     private String shopId;
 
+    /**
+     * 根据是否有值，判断是申请页面过来的更新，
+     */
+    private String applyId;
+
     private ContentLoadingDialog mLoadingDialog;
 
     /**
@@ -216,7 +222,12 @@ public class ShopAddFragment extends RxFragment implements ShopAddContract.View 
 
     @Override
     public void updateSuccess() {
-        getActivity().finish();
+        if(!TextUtils.isEmpty(applyId)){
+            startActivity(new Intent(getContext(), MainActivity.class).putExtra("apply", "011111"));
+            getActivity().finish();
+        }else{
+            getActivity().finish();
+        }
     }
 
     @OnClick(R.id.btn_shop_add_commit)
@@ -268,8 +279,7 @@ public class ShopAddFragment extends RxFragment implements ShopAddContract.View 
         }
         String detailStr = mDetailAddress.getText().toString().trim();
         if (TextUtils.isEmpty(detailStr)) {
-            ToastUtil.showFailure(getContext(), "请输入店铺详细地址");
-            return;
+            user.businessAccurateAddress="";
         } else {
             user.businessAccurateAddress=detailStr;
         }
@@ -596,6 +606,7 @@ public class ShopAddFragment extends RxFragment implements ShopAddContract.View 
         faceType = getActivity().getIntent().getIntExtra(ARGUMENT_TYPE, -1);
         storeType = getActivity().getIntent().getIntExtra(STORE_TYPE, -1);
         shopId = getActivity().getIntent().getStringExtra(ARGUMENT_SHOP_ID);
+        applyId = getActivity().getIntent().getStringExtra("apply_id");
 
         mLoadingDialog = ContentLoadingDialog.newInstance("提交中...");
         mLoadingDialog.setCancelable(false);
@@ -673,6 +684,9 @@ public class ShopAddFragment extends RxFragment implements ShopAddContract.View 
             mRegIdView
                 .setTextColor(ContextCompat.getColor(getContext(), R.color.shop_add_text_hint));
             mRegIdView.setEnabled(false);
+
+            mDetailAddress .setTextColor(ContextCompat.getColor(getContext(), R.color.shop_add_text_hint));
+            mDetailAddress.setEnabled(false);
 
             Drawable mAddressViewImg = ContextCompat
                 .getDrawable(getContext(), R.drawable.mq_ic_add_img);
