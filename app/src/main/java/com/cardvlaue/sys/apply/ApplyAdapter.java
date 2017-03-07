@@ -28,6 +28,8 @@ import com.cardvlaue.sys.face.FaceVerifyBean;
 import com.cardvlaue.sys.financeconfirm.FinanceConfirmActivity;
 import com.cardvlaue.sys.financeintention.FinanceIntentionActivity;
 import com.cardvlaue.sys.main.MainActivity;
+import com.cardvlaue.sys.shopadd.ShopAddActivity;
+import com.cardvlaue.sys.shopadd.ShopAddFragment;
 import com.cardvlaue.sys.uploadphoto.UploadPhotoActivity;
 import com.cardvlaue.sys.util.CacheUtil;
 import com.cardvlaue.sys.util.ReadUtil;
@@ -253,12 +255,59 @@ public class ApplyAdapter extends RecyclerView.Adapter {
                     viewHolder.btn1.setText("续贷");
                     break;
                 case "申请中":
-                    viewHolder.btn2.setVisibility(View.INVISIBLE);
+                    viewHolder.btn2.setVisibility(View.VISIBLE);
                     viewHolder.btn3.setVisibility(View.INVISIBLE);
                     viewHolder.btn1.setVisibility(View.VISIBLE);
                     viewHolder.btn1.setText("继续申请");
+                    viewHolder.btn2.setText("修改店铺");
                     break;
             }
+
+            //btn2的点击事件
+            viewHolder.btn2.setOnClickListener(v -> {
+                LoginResponse loginResponse = repository.getLogin();
+                String token = loginResponse.accessToken;
+                MainActivity aa = (MainActivity) context;
+                mLoadingDialog.show(aa.getSupportFragmentManager(), "tag");
+                repository.getUserInfo(apply.getMerchantId(), token)
+                    .observeOn(io.reactivex.android.schedulers.AndroidSchedulers.mainThread())
+                    .subscribe(s -> {
+                        mLoadingDialog.dismiss();
+                        if (TextUtils.isEmpty(s.getError())) {
+                            repository.saveUserInfo(s);
+                            repository.saveSetStep(apply.getSetStep() + "");
+                            repository.saveLogin(apply.getMerchantId());//objectId
+                            repository.saveMerchantId(apply.getMerchantId());
+                            repository.saveApplicationId(apply.getApplicationId());
+                            repository.saveCreditId(apply.getCreditId());
+                            switch (apply.getStatus().trim()) {
+                                case "申请中":
+                                    /**
+                                     * ARGUMENT_TYPE 1：更新 0：创建
+                                     */
+                                    context. startActivity(new Intent(context, ShopAddActivity.class)
+                                        .putExtra(ShopAddFragment.ARGUMENT_TYPE, 1)
+                                        .putExtra("apply_id",apply.getMerchantId())
+                                        .putExtra(ShopAddFragment.ARGUMENT_SHOP_ID,apply.getMerchantId()));
+                                    break;
+
+                                case "还款中":
+                                    repository.saveCreditId(apply.getCreditId());
+                                    repository.saveMerchantId(apply.getMerchantId());
+                                    repository.saveApplicationId(apply.getApplicationId());
+                                    Intent intentBtn1 = new Intent(context, BaoliNoticeActivity.class);
+                                    context.startActivity(intentBtn1);
+                                    break;
+                            }
+                        }
+                    }, throwable -> mLoadingDialog.dismissAllowingStateLoss());
+            });
+
+
+
+
+
+
 
             //btn1的点击事件
             viewHolder.btn1.setOnClickListener(v -> {
@@ -416,7 +465,7 @@ public class ApplyAdapter extends RecyclerView.Adapter {
                     }, throwable -> mLoadingDialog.dismissAllowingStateLoss());
             });
 
-            //btn2的点击事件
+         /*   //btn2的点击事件
             viewHolder.btn2.setOnClickListener(v -> {
                 switch (apply.getStatus().trim()) {
                     case "还款中":
@@ -427,7 +476,7 @@ public class ApplyAdapter extends RecyclerView.Adapter {
                         context.startActivity(intentBtn1);
                         break;
                 }
-            });
+            });*/
 
             //状态
             viewHolder.tv_status.setOnClickListener(v -> {
