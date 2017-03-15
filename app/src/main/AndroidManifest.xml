@@ -117,11 +117,7 @@
       android:name=".splash.SplashActivity"
       android:screenOrientation="portrait"
       android:theme="@style/SplashTheme">
-      <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
 
-        <category android:name="android.intent.category.LAUNCHER" />
-      </intent-filter>
     </activity>
 
     <!--  android:launchMode="singleTask"-->
@@ -486,6 +482,12 @@
     <activity
       android:name=".newalipayverify.NewAlipayVerifyActivity"
       android:screenOrientation="portrait"
-      android:theme="@style/TransparentStatusBarTheme" />
+      android:theme="@style/TransparentStatusBarTheme" >
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      </activity>
   </application>
 </manifest>
